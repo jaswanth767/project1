@@ -20,4 +20,4 @@ while condition:
         condition=True
     else:
         condition=False
-f.close()
+f.close() 
